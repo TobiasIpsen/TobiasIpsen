@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 # About Me
 
-I'm Tobias, a young CS student with a background as an FX Artist. I'm passionate about merging art with technology and creating innovative solutions. I love tackling challenges and developing new ideas that push the boundaries of what's possible.
+Hey there! 👋 I'm Tobias, a CS student with a background as an FX Artist working in VFX. I enjoy merging creative thinking with technical solutions. This GitHub is where I share my projects and experiments in CS and visual arts.
