@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# About Me
+
+Hey there! 👋 I'm Tobias, a young CS student with a background as an FX Artist. I'm passionate about merging art with technology and creating innovative solutions. I love tackling challenges and developing new ideas that push the boundaries of what's possible.
