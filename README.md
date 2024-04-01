@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-# About Me
-
-Hey there! 👋 I'm Tobias, a CS student with a background as an FX Artist working in VFX. I enjoy merging creative thinking with technical solutions. This GitHub is where I share my projects and experiments in CS and visual arts.
+I'm Tobias, a CS student with a background as an FX Artist working in VFX. I enjoy merging creative thinking with technical solutions. This GitHub is where I share my projects and experiments in CS and visual arts.
